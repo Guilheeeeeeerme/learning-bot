@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Guilheeeeeeerme/learning-bot/issues"
   },
-  "homepage": "https://github.com/Guilheeeeeeerme/learning-bot#readme"
+  "homepage": "https://github.com/Guilheeeeeeerme/learning-bot#readme",
+  "dependencies": {
+    "bootbot": "^1.0.16"
+  }
 }
